@@ -1,0 +1,16 @@
+body {
+    background: url('../../images/landing.jpg') no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-color: white;
+    text-align: center;
+}
+
+.logos {
+    padding: 5px;
+    margin: 20px;
+}
+
+.selamat {
+    color: white;
+}
